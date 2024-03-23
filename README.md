@@ -1,0 +1,2 @@
+# Secure-Image-Encryption-Decryption-Web-Application
+ The project aims to develop a secure image encryption and decryption web application using the Flask framework in Python. The application utilizes the Diffie-Hellman key exchange algorithm for secure key generation and XOR-based encryption for image security. The users can upload an image, and the application encrypts it using a dynamically generated key. The encrypted image can be downloaded and decrypted later using another key.
